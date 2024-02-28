@@ -38,6 +38,9 @@ export const Navbar = () => {
           <li>
             <a href="#contact">Contact</a>
           </li>
+          <li>
+            <a href="./assets/MALLIGARJUN P .pdf" target="_blank">Resume</a>
+          </li>
         </ul>
       </div>
     </nav>
