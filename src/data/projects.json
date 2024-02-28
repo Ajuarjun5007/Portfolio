@@ -1,0 +1,19 @@
+[
+  {
+    "title": "Bewakoof Clone",
+    "imageSrc": "projects/bewakoof.png",
+    "description": " Bewakoof offers a seamless and intuitive user experience, enabling you to browse through an extensive array of clothing categories effortlessly.",
+    "skills": ["HTML","CSS","JS","Tailwind", "React","Redux","Axios","Swiper","Radix-UI"],
+    "demo": "https://bewakoof-clone-rust-mu.vercel.app/",
+    "source": "https://github.com/Ajuarjun5007/Bewakoof_clone"
+  },
+  {
+  "title": "Amazon Prime Clone",
+  "imageSrc": "projects/prime.png",
+  "description": "Amazon prime is a streaming platform that redefines entertainment, offering an unparalleled user experience through its innovative blend of technology and design.",
+  "skills": ["HTML","CSS","JS", "React","Axios","Material-UI","Radix-UI"],
+  "demo": "https://amazon-prime-clone-livid.vercel.app/",
+  "source": "https://github.com/Ajuarjun5007/Bewakoof_clone"
+}
+ 
+]

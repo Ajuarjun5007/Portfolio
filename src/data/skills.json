@@ -1,0 +1,54 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "Tailwind",
+    "imageSrc": "skills/tailwind.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "Sass",
+    "imageSrc": "skills/sass.png"
+  },
+  {
+    "title": "swiper",
+    "imageSrc": "skills/swiper-logo.svg"
+  },
+  {
+    "title": "bootstrap",
+    "imageSrc": "skills/bootstrap.png"
+  },
+  {
+    "title": "Material-UI",
+    "imageSrc": "skills/material-ui.png"
+  },
+  {
+    "title": "npm",
+    "imageSrc": "skills/npm.png"
+  },
+  {
+    "title": "radix",
+    "imageSrc": "skills/radix.png"
+  }
+]

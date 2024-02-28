@@ -1,0 +1,20 @@
+[
+    {
+      "title": "Java",
+      "imageSrc": "skills/java.png"
+    },
+    {
+        "title": "JWT",
+        "imageSrc": "skills/jwt.svg"
+      },
+      {
+        "title": "Git",
+        "imageSrc": "skills/git.png"
+      },
+      {
+        "title": "Postman",
+        "imageSrc": "skills/postman.svg"
+      }
+   
+  ]
+  

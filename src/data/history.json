@@ -1,0 +1,20 @@
+[
+  {
+    "role": "Business Development Executive",
+    "organisation": "Dynatech Engineering",
+    "startDate": "Aug, 2019",
+    "endDate": "Oct 2022",
+    "experiences": ["Responsible for creating and implementing business development strategies, including market analysis and identifying areas for growth and improvement."
+    , "Successfully prepared and submitted proposals, bids, and tenders to potential clients, resulting in contract negotiations with favorable terms for both the company and the client.",
+  "Utilized technical skills in CREO, AUTOCAD, and AUTODESK INVENTOR to support project execution and development."],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": "Marketing Lead",
+    "organisation": "Smartway India Enterprises LLP",
+    "startDate": "Aug,2016",
+    "endDate": "Aug, 2019",
+    "experiences": ["Create comprehensive marketing plans and strategies aligned with the company's objectives and target audience. This involves understanding the products, compensation plan, and the unique selling points of the direct selling business.", "Promote and position the company's products in the market. Showcase their features, benefits, and advantages over competitors to generate interest and drive sales.","Nurture and strengthen the company's brand identity. Ensure that all marketing communications, including social media, websites, and promotional materials, are consistent and aligned with the brand image."],
+    "imageSrc": "history/microsoft.png"
+  }
+]
